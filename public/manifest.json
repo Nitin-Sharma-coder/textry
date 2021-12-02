@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Textry",
+  "name": "Text analyser and modifier",
   "icons": [
     {
       "src": "favicon.ico",
